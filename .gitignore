@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+# Excel / Office temp files
+~$*.xlsx
+~$*.docx
+*.tmp
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Editors
+.vscode/
+.idea/

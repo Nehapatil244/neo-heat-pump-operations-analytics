@@ -1,0 +1,164 @@
+Order ID,Order Date,Customer Ref,Customer Type,Region,Product Category,Units,Order Value (INR),Expected Delivery,Dispatch Date,Delivery Date,Expected Installation,Installation Date,Status,Delivery Delay Reason,Installation Delay Reason,Cancellation Reason,Notes
+NHP-0001,03-01-2026,CUST-7126,Institutional,Other States,Commercial Heat Pump,2,794000,25-01-2026,09-01-2026,15-01-2026,30-01-2026,20-01-2026,Completed,,,,
+NHP-0002,08-01-2026,CUST-6574,Institutional,Other States,Commercial Heat Pump,2,1090000,30-01-2026,03-02-2026,18-02-2026,04-02-2026,23-02-2026,Completed,Component shortage,Knock-on from late delivery,,Customer requested weekend install
+NHP-0003,10-01-2026,CUST-4483,Commercial,Bengaluru,Commercial Heat Pump,4,2232000,28-01-2026,31-01-2026,02-02-2026,02-02-2026,06-02-2026,Completed,Component shortage,,,Site survey done
+NHP-0004,12-01-2026,CUST-6930,Commercial,Rest of Karnataka,Heat Pump Dryer,1,783000,04-02-2026,01-02-2026,05-02-2026,09-02-2026,13-02-2026,Completed,Production backlog,Technician availability,,Site survey done
+NHP-0005,15-01-2026,CUST-7543,Institutional,Other States,Commercial Heat Pump,3,1998000,06-02-2026,02-02-2026,11-02-2026,11-02-2026,28-02-2026,Completed,Production backlog,,,Site survey done
+NHP-0006,21-01-2026,CUST-5374,Institutional,Bengaluru,Custom Requirement,2,2244000,20-02-2026,18-02-2026,20-02-2026,25-02-2026,17-02-2026,Completed,,,,Site survey done
+NHP-0007,22-01-2026,CUST-6573,Commercial,Bengaluru,Custom Requirement,1,783000,21-02-2026,19-02-2026,31-02-2026,26-02-2026,25-02-2026,COMPLETED,,,,Electrical load checked
+NHP-0008,2026/01/23,CUST-5339,Institutional,Bengaluru,Commercial Heat Pump,2,1038000,10-02-2026,31-01-2026,02-02-2026,15-02-2026,16-02-2026,Completed,,,,Customer requested weekend install
+NHP-0009,24-01-2026,CUST-1520,Institutional,Bengaluru,Commercial Heat Pump,2,1594000,11-02-2026,15-02-2026,16-02-2026,16-02-2026,19-02-2026,Completed,Component shortage,Knock-on from late delivery,,
+NHP-0010,26-01-2026,CUST-2679,Residential,Bengaluru,Swimming Pool Heat Pump,1,249000,09-02-2026,04-02-2026,05-02-2026,12-02-2026,06-02-2026,Completed,,,,Customer requested weekend install
+NHP-0011,29-01-2026,CUST-6881,Commercial,Rest of Karnataka,Heat Pump Dryer,2,846000,21-02-2026,22-02-2026,26-02-2026,26-02-2026,01-03-2026,Completed,Production backlog,Knock-on from late delivery,,
+NHP-0012,29-01-2026,CUST-5374,Residential,Other States,Heat Pump Water Heater,1,174000,12-02-2026,01-02-2026,08-02-2026,15-02-2026,09-02-2026,Completed,,,,
+NHP-0013,30-01-2026,CUST-9669,Residential,Rest of Karnataka,Heat Pump Water Heater,1,131000,11-02-2026,07-02-2026,11-02-2026,14-02-2026,12-02-2026,Completed,,,,Replacement of old geyser
+NHP-0014,01-02-2026,CUST-2519,Institutional,Bengaluru,Commercial Heat Pump,1,448000,19-02-2026,13-02-2026,15-02-2026,24-02-2026,18-02-2026,Completed,,,,Customer requested weekend install
+NHP-0015,02-02-2026,CUST-5315,Commercial,Rest of Karnataka,Commercial Heat Pump,1,798000,22-02-2026,24-02-2026,26-02-2026,27-02-2026,03-03-2026,Completed,Production backlog,Knock-on from late delivery,,Electrical load checked
+ NHP-0016 ,03-02-2026,CUST-6573,Commercial,Other States,Heat Pump Dryer,1,574000,28-02-2026,26-02-2026,08-03-2026,05-03-2026,19-03-2026,Completed,Component shortage,Customer site not ready,,
+NHP-0017,03-02-2026,CUST-1488,Commercial,Bengaluru,Custom Requirement,2,2040000,05-03-2026,11-02-2026,13-02-2026,10-03-2026,,Cancelled,,,Customer postponed project,Unit returned to factory after delivery
+NHP-0018,03-02-2026,CUST-3621,Commercial,Rest of Karnataka,Custom Requirement,1,1311000,07-03-2026,04-03-2026,08-03-2026,12-03-2026,13-03-2026,Completed,Production backlog,Knock-on from late delivery,,
+NHP-0019,07-02-2026,CUST-7065,Commercial,Bengaluru,Heat Pump Dryer,2,1122000,28-02-2026,25-02-2026,26-02-2026,05-03-2026,12-03-2026,Completed,,,,
+NHP-0020,07-02-2026,CUST-3340,Residential,Other States,HP Water Heater,1,160000,21-02-2026,12-02-2026,21-02-2026,24-02-2026,26-02-2026,Completed,,Technician availability,,Electrical load checked
+NHP-0021,08-02-2026,CUST-4657,residential,Bengaluru,Heat Pump Water Heater,1,153000,18-02-2026,12-02-2026,,21-02-2026,,Canceled,,,Long lead time,
+NHP-0022,09-02-2026,CUST-4811,Commercial,Bengaluru,Pool Heat Pump,2,870000,23-02-2026,17-02-2026,18-02-2026,26-02-2026,20-02-2026,completed,,,,Site survey done
+NHP-0023,10-02-2026,CUST-1916,Institutional,Bengaluru,Custom Requirement,2,1898000,12-03-2026,,,17-03-2026,,Canceled,,,Price / budget,Electrical load checked
+NHP-0024,11-02-2026,CUST-2824,Commercial,Bengaluru,Custom Requirement,2,1434000,13-03-2026,05-03-2026,06-03-2026,18-03-2026,19-03-2026,Completed,,Customer site not ready,,Pipe routing confirmed
+NHP-0025,14-02-2026,CUST-4657,Residential,Rest of Karnataka,Heat Pump Water Heater,1,157000,26-02-2026,19-02-2026,22-02-2026,01-03-2026,23-02-2026,Completed,,,,Pipe routing confirmed
+NHP-0026,14-02-2026,CUST-7126,Comm.,Bengaluru,Swimming Pool Heat Pump,2,632000,28-02-2026,25-02-2026,27-02-2026,03-03-2026,28-02-2026,Completed,,,,Pipe routing confirmed
+NHP-0027,17-02-2026,CUST-3664,Residential,Rest of Karnataka,HP Water Heater,1,185000,01-03-2026,21-02-2026,25-02-2026,04-03-2026,27-02-2026,Completed,,,,Customer requested weekend install
+NHP-0028,17-02-2026,CUST-6574,Commercial,Bengaluru,Custom Requirement,2,1670000,19-03-2026,27-03-2026,28-03-2026,24-03-2026,01-04-2026,Completed,Production backlog,,,
+NHP-0029,18-02-2026,CUST-4432,Commercial,Bengaluru,Swimming Pool Heat Pump,2,900000,04-03-2026,27-02-2026,01-03-2026,07-03-2026,03-03-2026,Completed,,,,
+NHP-0030,20-02-2026,CUST-9669,Institutional,Bengaluru,Commercial Heat Pump,3,3144000,10-03-2026,15-03-2026,17-03-2026,15-03-2026,22-03-2026,Completed,Production backlog,Knock-on from late delivery,,Replacement of old geyser
+NHP-0031,20-02-2026,CUST-5808,Commercial,Bengaluru,Heat Pump Dryer,1,619000,13-03-2026,24-02-2026,26-02-2026,18-03-2026,03-03-2026,Completed,,,,Replacement of old geyser
+NHP-0031,20-02-2026,CUST-5808,Commercial,Bengaluru,Heat Pump Dryer,1,619000,13-03-2026,24-02-2026,26-02-2026,18-03-2026,03-03-2026,Completed,,,,Replacement of old geyser
+ NHP-0032 ,2026/02/24,CUST-5119,Residential,Rest of Karnataka,Heat Pump Water Heater,1,183000,08-03-2026,04-03-2026,08-03-2026,11-03-2026,16-03-2026,Completed,,,,
+NHP-0033,24-02-2026,CUST-4150,Commercial,Bengaluru,Commercial Heat Pump,4,2952000,14-03-2026,17-03-2026,18-03-2026,19-03-2026,15-03-2026,Completed,,Knock-on from late delivery,,
+NHP-0034,25-02-2026,CUST-3547,Commercial,Bengaluru,Swimming Pool Heat Pump,2,488000,11-03-2026,02-03-2026,04-03-2026,14-03-2026,16-03-2026,Completed,,Customer site not ready,,
+NHP-0035,25-02-2026,CUST-8428,Residential,Bengaluru,Swimming Pool Heat Pump,1,,11-03-2026,12-03-2026,14-03-2026,14-03-2026,17-03-2026,Completed,Production backlog,Knock-on from late delivery,,
+NHP-0036,26-02-2026,CUST-4257,Commercial,Bengaluru,Heat Pump Water Heater,2,264000,08-03-2026,27-02-2026,28-02-2026,11-03-2026,09-03-2026,Completed,,,,Customer requested weekend install
+NHP-0037,27-02-2026,CUST-5371,Commercial,Bengaluru,Commercial Heat Pump,1,"Rs. 1,055,000",17-03-2026,09-03-2026,11-03-2026,22-03-2026,15-03-2026,Completed,,,,Electrical load checked
+NHP-0038,01-03-2026,CUST-4527,Institutional,Bengaluru,Heat Pump Dryer,1,753000,22-03-2026,,,27-03-2026,,Cancelled,,,Customer postponed project,Electrical load checked
+NHP-0039,01-03-2026,CUST-7916,Institutional,Bengaluru,Heat Pump Water Heater,2,260000,11-03-2026,04-03-2026,05-03-2026,14-03-2026,06-03-2026,Completed,,,,
+NHP-0040,02-03-2026,CUST-1916,Institutional,Bengaluru,Heat Pump Dryer,2,1030000,23-03-2026,17-03-2026,18-03-2026,28-03-2026,02-04-2026,Completed,,Customer site not ready,,Electrical load checked
+NHP-0041,03-03-2026,CUST-2084,Commercial,Bengaluru,Swimming Pool Heat Pump,1,426000,17-03-2026,13-03-2026,14-03-2026,20-03-2026,15-03-2026,Completed,,,,
+NHP-0042,09-03-2026,CUST-7912,Institutional,Bengaluru,Commercial Heat Pump,3,1974000,27-03-2026,21-03-2026,23-03-2026,01-04-2026,27-03-2026,Completed,,,,Electrical load checked
+NHP-0043,10-03-2026,CUST-5741,Residential,Bengaluru,Swimming Pool Heat Pump,1,225000,24-03-2026,21-03-2026,23-03-2026,27-03-2026,24-03-2026,Completed,,,,Electrical load checked
+NHP-0044,14-03-2026,CUST-6313,Commercial,Bengaluru,Swimming Pool Heat Pump,2,1174000,28-03-2026,25-03-2026,27-03-2026,31-03-2026,29-03-2026,Completed,,,,
+NHP-0045,15-03-2026,CUST-9179,Residential,Rest of Karnataka,Swimming Pool Heat Pump,1,499000,31-03-2026,23-03-2026,26-03-2026,03-04-2026,27-03-2026,Completed,,,,
+NHP-0046,17-03-2026,CUST-9830,Residential,Bengaluru,Heat Pump Water Heater,1,197000,27-03-2026,25-03-2026,26-03-2026,30-03-2026,25-06-2026,completed,,Customer site not ready,,Site survey done
+NHP-0047,18-03-2026,CUST-7224,Commercial,Bengaluru,Swimming Pool Heat Pump,1,517000,01-04-2026,25-03-2026,27-03-2026,04-04-2026,28-03-2026,Completed,,,,Electrical load checked
+NHP-0048,18-03-2026,CUST-7252,Commercial,Rest of Karnataka,Swimming Pool Heat Pump,1,469000,03-04-2026,28-03-2026,30-03-2026,06-04-2026,31-03-2026,Completed,,,,Pipe routing confirmed
+NHP-0049,19-03-2026,CUST-2291,Residential,Bengaluru,Heat Pump Water Heater,1,198000,29-03-2026,23-03-2026,25-03-2026,01-04-2026,27-03-2026,Completed,,,,Electrical load checked
+NHP-0050,19-03-2026,CUST-2824,Institutional,Other States,Custom Requirement,1,503000,22-04-2026,17-04-2026,02-05-2026,27-04-2026,,Pending,Transport scheduling,,,
+NHP-0051,21-03-2026,CUST-2169,Commercial,Bengaluru,Swimming Pool Heat Pump,1,347000,04-04-2026,31-03-2026,02-04-2026,07-04-2026,04-04-2026,Completed,,,,Site survey done
+NHP-0052,25-03-2026,CUST-5119,Residential,Bengaluru,Swimming Pool Heat Pump,1,439000,08-04-2026,05-04-2026,07-04-2026,11-04-2026,08-04-2026,Completed,,,,Site survey done
+NHP-0053,25-03-2026,CUST-2169,Institutional,Bengaluru,Commercial Heat Pump,1,1005000,12-04-2026,06-04-2026,07-04-2026,17-04-2026,12-04-2026,Completed,,,,Customer requested weekend install
+NHP-0054,25-03-2026,CUST-5304,Commercial,Other States,Heat Pump Water Heater,1,117000,08-04-2026,27-03-2026,07-04-2026,11-04-2026,08-04-2026,Completed,,,,
+NHP-0055,26-03-2026,CUST-3287,Residential,Other States,Swimming Pool Heat Pump,1,372000,13-04-2026,06-04-2026,14-04-2026,16-04-2026,15-04-2026,Completed,Dispatch scheduling,,,
+NHP-0056,2026/03/27,CUST-1488,Commercial,Bengaluru,Heat Pump Dryer,2,1000000,17-04-2026,08-04-2026,09-04-2026,22-04-2026,14-04-2026,Complete,,,,Pipe routing confirmed
+NHP-0057,27-03-2026,CUST-9279,residential,Bengaluru,Heat Pump Water Heater,1,174000,06-04-2026,28-03-2026,29-03-2026,09-04-2026,30-03-2026,Completed,,,,Electrical load checked
+NHP-0058,28-03-2026,CUST-3266,Commercial,Bengaluru,HP Water Heater,1,202000,07-04-2026,31-03-2026,,10-04-2026,,Cancelled,,,Long lead time,Site survey done
+NHP-0059,28-03-2026,CUST-9179,Residential,Bengaluru,Heat Pump Water Heater,1,134000,07-04-2026,04-04-2026,05-04-2026,10-04-2026,,Pending,,Customer site not ready,,Customer civil work in progress
+NHP-0060,28-03-2026,CUST-2307,Institutional,Bengaluru,Custom Requirement,1,1023000,27-04-2026,25-06-2026,26-06-2026,02-05-2026,29-06-2026,Completed,Component shortage,Knock-on from late delivery,,Pipe routing confirmed
+NHP-0061,30-03-2026,CUST-4456,Residential,Rest of Karnataka,Swimming Pool Heat Pump,1,498000,15-04-2026,10-04-2026,13-04-2026,18-04-2026,15-04-2026,Completed,,,,Site survey done
+NHP-0062,31-03-2026,CUST-3287,Institutional,Other States,Heat Pump Water Heater,2,312000,14-04-2026,05-04-2026,11-04-2026,17-04-2026,22-06-2026,Completed,,,,Electrical load checked
+NHP-0063,03-04-2026,CUST-1106,Commercial,Rest of Karnataka,Pool Heat Pump,1,225000,19-04-2026,19-04-2026,23-04-2026,22-04-2026,06-05-2026,Completed,Production backlog,Customer site not ready,,Electrical load checked
+NHP-0064,04-04-2026,CUST-3591,Residential,Bengaluru,Heat Pump Water Heater,1,208000,14-04-2026,11-04-2026,13-04-2026,17-04-2026,15-04-2026,Completed,,,,
+NHP-0065,04-04-2026,CUST-2876,Commercial,Bengaluru,Commercial Heat Pump,4,1348000,22-04-2026,18-04-2026,19-04-2026,27-04-2026,30-05-2026,Completed,,Customer site not ready,,
+NHP-0066,05-04-2026,CUST-3677,Institutional,Bengaluru,Commercial Heat Pump,4,1476000,23-04-2026,23-04-2026,24-04-2026,28-04-2026,27-04-2026,Completed,Production backlog,,,
+NHP-0067,05-04-2026,CUST-5554,Commercial,Other States,Commercial Heat Pump,2,1190000,27-04-2026,19-04-2026,26-04-2026,02-05-2026,01-05-2026,Completed,,,,Pipe routing confirmed
+NHP-0068,08-04-2026,CUST-1520,Residential,Bengaluru,Heat Pump Water Heater,1,213000,18-04-2026,11-04-2026,,21-04-2026,,Cancelled,,,Price / budget,
+NHP-0069,08-04-2026,CUST-6635,Residential,Other States,Heat Pump Water Heater,1,175000,22-04-2026,16-04-2026,24-04-2026,25-04-2026,,PENDING,,Customer site not ready,,Customer civil work in progress
+NHP-0070,09-04-2026,CUST-2674,Institutional,Rest of Karnataka,Commercial Heat Pump,1,433000,29-04-2026,20-04-2026,23-04-2026,04-05-2026,03-05-2026,Completed,,,,Site survey done
+NHP-0071,12-04-2026,CUST-4257,Commercial,Bengaluru,Heat Pump Water Heater,1,147000,22-04-2026,22-04-2026,23-04-2026,25-04-2026,24-04-2026,Completed,,,,Replacement of old geyser
+NHP-0072,12-04-2026,CUST-6925,Commercial,Bengaluru,Commercial Heat Pump,2,1284000,30-04-2026,30-04-2026,01-05-2026,05-05-2026,05-05-2026,Completed,,,,Replacement of old geyser
+NHP-0073,14-04-2026,CUST-6514,Institutional,Bengaluru,Commercial Heat Pump,2,692000,02-05-2026,30-04-2026,02-05-2026,07-05-2026,05-05-2026,Completed,,,,Customer requested weekend install
+NHP-0074,15-04-2026,CUST-7216,Residential,Bengaluru,Swimming Pool Heat Pump,1,597000,29-04-2026,22-04-2026,23-04-2026,02-05-2026,26-04-2026,Completed,,,,Customer requested weekend install
+NHP-0075,15-04-2026,CUST-7224,Residential,Bengaluru,Pool Heat Pump,1,,29-04-2026,24-04-2026,26-04-2026,02-05-2026,28-04-2026,Completed,,,,
+NHP-0076,20-04-2026,CUST-4752,Commercial,Other States,Commercial Heat Pump,2,708000,12-05-2026,08-05-2026,20-05-2026,17-05-2026,,In Progress,Transport scheduling,Customer site not ready,,Customer civil work in progress
+NHP-0077,20-04-2026,CUST-1188,Commercial,Bengaluru,Commercial Heat Pump,3,2628000,08-05-2026,11-05-2026,13-05-2026,13-05-2026,16-05-2026,Completed,Production backlog,Knock-on from late delivery,,
+NHP-0078,20-04-2026,CUST-4432,Commercial,Rest of Karnataka,Commercial Heat Pump,1,1175000,10-05-2026,17-05-2026,21-05-2026,15-05-2026,25-05-2026,Completed,Production backlog,,,Electrical load checked
+NHP-0079,22-04-2026,CUST-2519,Commercial,Bengaluru,Custom Requirement,1,801000,22-05-2026,29-05-2026,30-05-2026,27-05-2026,04-06-2026,Completed,Component shortage,Knock-on from late delivery,,Customer requested weekend install
+NHP-0079,22-04-2026,CUST-2519,Commercial,Bengaluru,Custom Requirement,1,801000,22-05-2026,29-05-2026,30-05-2026,27-05-2026,04-06-2026,Completed,Component shortage,Knock-on from late delivery,,Customer requested weekend install
+NHP-0080,23-04-2026,CUST-2679,Commercial,Rest of Karnataka,Heat Pump Water Heater,1,179000,05-05-2026,02-05-2026,05-05-2026,08-05-2026,12-05-2026,Completed,,Customer site not ready,,Customer requested weekend install
+NHP-0081,24-04-2026,CUST-1520,Commercial,Bengaluru,Heat Pump Dryer,2,1116000,15-05-2026,12-05-2026,13-05-2026,20-05-2026,28-05-2026,Completed,,,,
+NHP-0082,24-04-2026,CUST-2743,Residential,Bengaluru,Swimming Pool Heat Pump,1,233000,08-05-2026,01-01-2026,10-05-2026,11-05-2026,11-05-2026,Completed,,,,Electrical load checked
+NHP-0083,26-04-2026,CUST-4593,Commercial,Other States,Swimming Pool Heat Pump,1,593000,14-05-2026,28-04-2026,08-05-2026,17-05-2026,10-05-2026,Completed,,,,Replacement of old geyser
+NHP-0084,2026/04/27,CUST-9928,Residential,Bengaluru,Heat Pump Water Heater,1,117000,07-05-2026,02-05-2026,03-05-2026,10-05-2026,13-05-2026,Completed,,Customer site not ready,,
+NHP-0085,27-04-2026,CUST-9317,Commercial,Bengaluru,Commercial Heat Pump,2,944000,15-05-2026,05-05-2026,07-05-2026,20-05-2026,,Pending,,,,Customer requested weekend install
+NHP-0086,2026/04/27,CUST-8019,Commercial,Bengaluru,Heat Pump Water Heater,2,328000,07-05-2026,01-05-2026,03-05-2026,10-05-2026,15-05-2026,Completed,,Customer site not ready,,Site survey done
+NHP-0087,27-04-2026,CUST-4593,Commercial,Bengaluru,Commercial Heat Pump,3,1158000,15-05-2026,05-05-2026,07-05-2026,20-05-2026,16-05-2026,Completed,,,,
+NHP-0088,27-04-2026,CUST-1711,Commercial,Bengaluru,Heat Pump Dryer,1,410000,18-05-2026,16-05-2026,18-05-2026,23-05-2026,21-05-2026,Completed,,,,Site survey done
+NHP-0089,01-05-2026,CUST-3266,Institutional,Bengaluru,Commercial Heat Pump,2,924000,19-05-2026,13-05-2026,15-05-2026,24-05-2026,19-05-2026,Completed,,,,Pipe routing confirmed
+NHP-0090,03-05-2026,CUST-9348,Commercial,Bengaluru,Commercial Heat Pump,1,661000,21-05-2026,31-05-2026,02-06-2026,26-05-2026,05-06-2026,Completed,Component shortage,Knock-on from late delivery,,Site survey done
+NHP-0091,03-05-2026,CUST-6977,Commercial,Other States,commercial heat pump,1,1161000,25-05-2026,12-05-2026,21-05-2026,30-05-2026,01-06-2026,Completed,,,,Customer requested weekend install
+NHP-0092,03-05-2026,CUST-9279,Commercial,Rest of Karnataka,commercial heat pump,1,306000,23-05-2026,,,28-05-2026,,Cancelled,,,Long lead time,Site survey done
+NHP-0093,2026/05/06,CUST-3591,Residential,Rest of Karnataka,Swimming Pool Heat Pump,1,584000,22-05-2026,11-05-2026,15-05-2026,25-05-2026,18-05-2026,Completed,,,,Electrical load checked
+NHP-0094,06-05-2026,CUST-3287,Institutional,Rest of Karnataka,Custom Requirement,1,1017000,07-06-2026,06-06-2026,09-06-2026,12-06-2026,12-06-2026,Completed,Production backlog,,,Pipe routing confirmed
+NHP-0095,10-05-2026,CUST-2584,Institutional,Rest of Karnataka,Custom Requirement,2,2722000,11-06-2026,18-06-2026,21-06-2026,16-06-2026,,Pending,Component shortage,Customer site not ready,,Customer civil work in progress
+NHP-0096,11-05-2026,CUST-6977,Institutional,Bengaluru,Custom Requirement,1,669000,10-06-2026,30-05-2026,31-05-2026,15-06-2026,05-06-2026,Completed,,,,Pipe routing confirmed
+NHP-0097,12-05-2026,CUST-4258,Residential,Bengaluru,Heat Pump Water Heater,1,144000,22-05-2026,13-05-2026,15-05-2026,25-05-2026,17-05-2026,Complete,,,,Pipe routing confirmed
+NHP-0098,12-05-2026,CUST-9179,Commercial,Rest of Karnataka,Heat Pump Water Heater,1,118000,24-05-2026,17-05-2026,19-05-2026,27-05-2026,31-05-2026,Completed,,Customer site not ready,,
+NHP-0099,13-05-2026,CUST-7482,Institutional,Bengaluru,Commercial Heat Pump,1,502000,31-05-2026,24-05-2026,25-05-2026,05-06-2026,30-05-2026,Completed,,,,
+NHP-0100,13-05-2026,CUST-5040,Commercial,Other States,Custom Requirement,1,1200000,16-06-2026,21-06-2026,,21-06-2026,,Pending,Transport scheduling,,,Electrical load checked
+NHP-0101,13-05-2026,CUST-4456,Residential,Rest of Karnataka,Heat Pump Water Heater,1,86000,25-05-2026,16-05-2026,18-05-2026,28-05-2026,31-05-2026,Completed,,Customer site not ready,,
+NHP-0102,13-05-2026,CUST-8019,Commercial,Bengaluru,Heat Pump Dryer,1,661000,03-06-2026,25-05-2026,26-05-2026,08-06-2026,,Pending,,,,
+NHP-0103,14-05-2026,CUST-7304,Institutional,Other States,Commercial Heat Pump,1,547000,05-06-2026,02-06-2026,14-06-2026,10-06-2026,21-06-2026,Completed,,Technician availability,,Electrical load checked
+NHP-0104,14-05-2026,CUST-6820,Commercial,Bengaluru,Custom Requirement,1,904000,13-06-2026,11-06-2026,13-06-2026,18-06-2026,16-06-2026,Completed,,,,
+NHP-0105,15-05-2026,CUST-7873,Commercial,Rest of Karnataka,Heat Pump Dryer,1,660000,07-06-2026,09-06-2026,11-06-2026,12-06-2026,19-06-2026,Completed,,,,
+NHP-0106,18-05-2026,CUST-9085,Commercial,Rest of Karnataka,Custom Requirement,1,527000,19-06-2026,21-06-2026,23-06-2026,24-06-2026,28-06-2026,Completed,Production backlog,Knock-on from late delivery,,
+NHP-0107,19-05-2026,CUST-7924,Residential,Rest of Karnataka,Heat Pump Water Heater,1,187000,31-05-2026,22-05-2026,26-05-2026,03-06-2026,27-05-2026,Completed,,,,
+NHP-0108,20-05-2026,CUST-7216,Commercial,Bengaluru,Heat Pump Dryer,1,,10-06-2026,01-06-2026,02-06-2026,15-06-2026,08-06-2026,Completed,,,,
+ NHP-0109 ,20-05-2026,CUST-2876,Institutional,Other States,Custom Requirement,1,1229000,23-06-2026,05-06-2026,09-06-2026,28-06-2026,18-06-2026,Completed,,,,Pipe routing confirmed
+NHP-0110,20-05-2026,CUST-6635,Residential,Rest of Karnataka,Swimming Pool Heat Pump,1,583000,05-06-2026,24-05-2026,26-05-2026,08-06-2026,10-06-2026,Completed,,Customer site not ready,,Replacement of old geyser
+NHP-0111,22-05-2026,CUST-6930,Institutional,Rest of Karnataka,Custom Requirement,1,819000,23-06-2026,11-06-2026,14-06-2026,28-06-2026,30-06-2026,Completed,,Customer site not ready,,Site survey done
+NHP-0112,23-05-2026,CUST-4811,Institutional,Other States,Commercial Heat Pump,2,878000,14-06-2026,03-06-2026,12-06-2026,19-06-2026,15-06-2026,Completed,,,,
+NHP-0113,23-05-2026,CUST-5386,Residential,Other States,Heat Pump Water Heater,1,213000,06-06-2026,31-05-2026,09-06-2026,09-06-2026,12-06-2026,Completed,,,,Site survey done
+NHP-0114,23-05-2026,CUST-9935,Residential,Bengaluru,Swimming Pool Heat Pump,1,505000,06-06-2026,27-05-2026,28-05-2026,09-06-2026,31-05-2026,Completed,,,,Customer requested weekend install
+NHP-0115,23-05-2026,CUST-2291,Residential,Bengaluru,Heat Pump Water Heater,1,99000,02-06-2026,31-05-2026,02-06-2026,05-06-2026,09-06-2026,Completed,,Technician availability,,Site survey done
+NHP-0116,24-05-2026,CUST-1053,Institutional,Rest of Karnataka,Commercial Heat Pump,4,4408000,13-06-2026,29-05-2026,02-06-2026,18-06-2026,06-06-2026,Completed,,,,
+NHP-0117,24-05-2026,CUST-8527,Commercial,Rest of Karnataka,Heat Pump Dryer,1,476000,16-06-2026,13-06-2026,16-06-2026,21-06-2026,30-06-2026,Completed,,Customer site not ready,,Site survey done
+NHP-0118,24-05-2026,CUST-9928,Commercial,Rest of Karnataka,Heat Pump Dryer,2,1114000,16-06-2026,,,21-06-2026,,Cancelled,,,Price / budget,
+NHP-0119,24-05-2026,CUST-5315,Commercial,Rest of Karnataka,Heat Pump Water Heater,1,202000,05-06-2026,30-05-2026,01-06-2026,08-06-2026,02-06-2026,Completed,,,,
+NHP-0120,25-05-2026,CUST-3803,Commercial,Bengaluru,Heat Pump Dryer,1,573000,15-06-2026,12-06-2026,13-06-2026,20-06-2026,17-06-2026,Completed,,,,
+NHP-0121,25-05-2026,CUST-4811,Commercial,Bengaluru,Heat Pump Water Heater,1,202000,04-06-2026,03-06-2026,04-06-2026,07-06-2026,06-06-2026,Completed,,,,Customer requested weekend install
+NHP-0122,26-05-2026,CUST-3547,Commercial,Bengaluru,Commercial Heat Pump,1,440000,13-06-2026,22-06-2026,24-06-2026,18-06-2026,29-06-2026,Completed,Component shortage,,,Pipe routing confirmed
+NHP-0123,26-05-2026,CUST-7873,Institutional,Rest of Karnataka,Heat Pump Water Heater,1,210000,07-06-2026,30-05-2026,01-06-2026,10-06-2026,11-06-2026,Completed,,Customer site not ready,,Pipe routing confirmed
+NHP-0124,26-05-2026,CUST-8359,Commercial,Other States,Custom Requirement,1,1239000,29-06-2026,,,04-07-2026,,Pending,Component shortage,,,Pipe routing confirmed
+NHP-0125,27-05-2026,CUST-6313,Residential,Rest of Karnataka,Heat Pump Water Heater,1,153000,08-06-2026,01-06-2026,05-06-2026,11-06-2026,06-06-2026,Completed,,,,Electrical load checked
+NHP-0126,28-05-2026,CUST-3927,Commercial,Bengaluru,Heat Pump Water Heater,1,212000,07-06-2026,03-06-2026,05-06-2026,10-06-2026,08-06-2026,Completed,,,,Site survey done
+NHP-0127,28-05-2026,CUST-9317,Institutional,Other States,Heat Pump Water Heater,1,220000,11-06-2026,01-06-2026,08-06-2026,14-06-2026,10-06-2026,Completed,,,,Pipe routing confirmed
+NHP-0128,31-05-2026,CUST-4483,Commercial,Rest of Karnataka,Heat Pump Dryer,2,682000,23-06-2026,11-06-2026,13-06-2026,28-06-2026,,Completed,,,,
+NHP-0129,02-06-2026,CUST-5010,Commercial,Bengaluru,Custom Requirement,1,844000,02-07-2026,,,07-07-2026,,Pending,,,,Replacement of old geyser
+NHP-0130,03-06-2026,CUST-4257,Commercial,Rest of Karnataka,Swimming Pool Heat Pump,1,245000,19-06-2026,06-06-2026,08-06-2026,22-06-2026,11-06-2026,Completed,,,,Electrical load checked
+NHP-0131,06-06-2026,CUST-3287,Commercial,Bengaluru,Heat Pump Dryer,2,720000,27-06-2026,27-06-2026,28-06-2026,02-07-2026,,Pending,Production backlog,,,Replacement of old geyser
+NHP-0132,06-06-2026,CUST-7201,Institutional,Bengaluru,Heat Pump Water Heater,1,175000,16-06-2026,10-06-2026,11-06-2026,19-06-2026,26-06-2026,Completed,,Customer site not ready,,Customer requested weekend install
+NHP-0133,07-06-2026,CUST-6930,Commercial,Bengaluru,Custom Requirement,1,1053000,07-07-2026,,,12-07-2026,,pending ,,,,
+NHP-0134,08-06-2026,CUST-9928,Residential,Rest of Karnataka,Swimming Pool Heat Pump,1,527000,24-06-2026,19-06-2026,23-06-2026,27-06-2026,29-06-2026,Completed,,,,Electrical load checked
+NHP-0135,09-06-2026,CUST-9348,Residential,Bengaluru,Heat Pump Water Heater,1,207000,19-06-2026,11-06-2026,13-06-2026,22-06-2026,14-06-2026,Completed,,,,Customer requested weekend install
+NHP-0136,11-06-2026,CUST-4257,Commercial,Bengaluru,Heat Pump Dryer,1,645000,02-07-2026,28-06-2026,30-06-2026,07-07-2026,,Pending,,,,Replacement of old geyser
+NHP-0137,12-06-2026,CUST-6574,Residential,Bengaluru,Swimming Pool Heat Pump,1,356000,26-06-2026,22-06-2026,23-06-2026,29-06-2026,24-06-2026,Completed,,,,Customer requested weekend install
+NHP-0138,14-06-2026,CUST-2654,Commercial,Bengaluru,Swimming Pool Heat Pump,1,268000,28-06-2026,27-06-2026,29-06-2026,01-07-2026,,Pending,Production backlog,,,Customer requested weekend install
+NHP-0139,14-06-2026,CUST-2040,Commercial,Other States,Heat Pump Water Heater,2,"Rs. 216,000",28-06-2026,19-06-2026,29-06-2026,01-07-2026,,Pending,Transport scheduling,,,
+NHP-0140,15-06-2026,CUST-9797,Commercial,Other States,Commercial Heat Pump,2,1910000,07-07-2026,,,12-07-2026,,Pending,,,,
+NHP-0141,15-06-2026,CUST-2535,Residential,Bengaluru,Heat Pump Water Heater,1,139000,25-06-2026,16-06-2026,17-06-2026,28-06-2026,27-06-2026,Completed,,,,
+NHP-0142,15-06-2026,CUST-9669,Comm.,Bengaluru,Commercial Heat Pump,1,313000,03-07-2026,28-06-2026,29-06-2026,08-07-2026,,Pending,,,,Pipe routing confirmed
+NHP-0143,16-06-2026,CUST-5803,Commercial,Bengaluru,Swimming Pool Heat Pump,1,328000,30-06-2026,21-06-2026,22-06-2026,03-07-2026,25-06-2026,Completed,,,,
+NHP-0144,18-06-2026,CUST-2084,Institutional,Bengaluru,Custom Requirement,1,692000,18-07-2026,,,23-07-2026,,In Progress,,,,Site survey done
+ NHP-0145 ,18-06-2026,CUST-1525,Residential,Bengaluru,Heat Pump Water Heater,1,103000,28-06-2026,26-06-2026,28-06-2026,01-07-2026,29-06-2026,Completed,,,,
+NHP-0146,18-06-2026,CUST-4483,Institutional,Bengaluru,Commercial Heat Pump,2,1758000,06-07-2026,,,11-07-2026,,Pending,,,,
+NHP-0147,19-06-2026,CUST-8668,Residential,Other States,Heat Pump Water Heater,1,165000,03-07-2026,26-06-2026,,06-07-2026,,Pending,,,,
+NHP-0147,19-06-2026,CUST-8668,Residential,Other States,Heat Pump Water Heater,1,165000,03-07-2026,26-06-2026,,06-07-2026,,Pending,,,,
+NHP-0148,20-06-2026,CUST-2169,Commercial,Rest of Karnataka,Heat Pump Water Heater,2,432000,02-07-2026,25-06-2026,,05-07-2026,,Cancelled,,,Long lead time,Pipe routing confirmed
+NHP-0149,20-06-2026,CUST-4752,Residential,Bengaluru,Heat Pump Water Heater,1,115000,30-06-2026,24-06-2026,25-06-2026,03-07-2026,30-06-2026,Completed,,,,Customer requested weekend install
+NHP-0150,22-06-2026,CUST-5808,Commercial,Other States,Commercial Heat Pump,1,396000,14-07-2026,,,19-07-2026,,Pending,,,,Pipe routing confirmed
+NHP-0151,23-06-2026,CUST-9201,Commercial,Bengaluru,Commercial Heat Pump,1,698000,11-07-2026,,,16-07-2026,,Pending,,,,Pipe routing confirmed
+NHP-0152,23-06-2026,CUST-9348,Commercial,Other States,Custom Requirement,2,2928000,27-07-2026,,,01-08-2026,,Pending,,,,Customer requested weekend install
+NHP-0153,23-06-2026,CUST-8517,Commercial,Rest of Karnataka,Custom Requirement,1,473000,25-07-2026,,,30-07-2026,,Pending,,,,
+NHP-0154,23-06-2026,CUST-2040,Commercial,Bengaluru,Commercial Heat Pump,2,1614000,11-07-2026,29-06-2026,30-06-2026,16-07-2026,,Pending,,,,
+NHP-0155,25-06-2026,CUST-8517,Residential,Bengaluru,Heat Pump Water Heater,1,121000,05-07-2026,26-06-2026,27-06-2026,08-07-2026,30-06-2026,Completed,,,,
+NHP-0156,25-06-2026,CUST-4456,Residential,Rest of Karnataka,Heat Pump Water Heater,1,179000,07-07-2026,27-06-2026,30-06-2026,10-07-2026,,Pending,,,,
+NHP-0157,26-06-2026,CUST-5333,Residential,Bengaluru,Heat Pump Water Heater,1,166000,06-07-2026,,,09-07-2026,,In Progress,,,,Pipe routing confirmed
+NHP-0158,27-06-2026,CUST-2679,Institutional,Bengaluru,Custom Requirement,1,758000,27-07-2026,,,01-08-2026,,Pending,,,,
+NHP-0159,27-06-2026,CUST-5315,Commercial,Rest of Karnataka,Custom Requirement,2,2280000,29-07-2026,,,03-08-2026,,Pending,,,,Electrical load checked
+NHP-0160,27-06-2026,CUST-7201,Commercial,Other States,Commercial Heat Pump,1,1012000,19-07-2026,,,24-07-2026,,Pending,,,,Replacement of old geyser

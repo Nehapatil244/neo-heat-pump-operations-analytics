@@ -1,0 +1,4 @@
+# Only needed if you want to re-run the data pipeline in scripts/ (not needed to open the Excel file or run the dashboard)
+pandas==3.0.5
+openpyxl==3.1.5
+playwright  # only for scripts/07_capture_dashboard_screenshots.py

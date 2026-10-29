@@ -1,0 +1,48 @@
+Order ID,Field,Original,Injected value,Issue
+NHP-0046,Status,Completed,completed,status variant
+NHP-0022,Status,Completed,completed,status variant
+NHP-0056,Status,Completed,Complete,status variant
+NHP-0097,Status,Completed,Complete,status variant
+NHP-0007,Status,Completed,COMPLETED,status variant
+NHP-0069,Status,Pending,PENDING,status variant
+NHP-0157,Status,Pending,In Progress,status variant
+NHP-0144,Status,Pending,In Progress,status variant
+NHP-0076,Status,Pending,In Progress,status variant
+NHP-0133,Status,Pending,pending ,status variant
+NHP-0021,Status,Cancelled,Canceled,status variant
+NHP-0023,Status,Cancelled,Canceled,status variant
+NHP-0075,Product Category,Swimming Pool Heat Pump,Pool Heat Pump,category variant
+NHP-0022,Product Category,Swimming Pool Heat Pump,Pool Heat Pump,category variant
+NHP-0063,Product Category,Swimming Pool Heat Pump,Pool Heat Pump,category variant
+NHP-0058,Product Category,Heat Pump Water Heater,HP Water Heater,category variant
+NHP-0020,Product Category,Heat Pump Water Heater,HP Water Heater,category variant
+NHP-0027,Product Category,Heat Pump Water Heater,HP Water Heater,category variant
+NHP-0092,Product Category,Commercial Heat Pump,commercial heat pump,category variant
+NHP-0091,Product Category,Commercial Heat Pump,commercial heat pump,category variant
+NHP-0021,Customer Type,Residential,residential,customer-type variant
+NHP-0057,Customer Type,Residential,residential,customer-type variant
+NHP-0026,Customer Type,Commercial,Comm.,customer-type variant
+NHP-0142,Customer Type,Commercial,Comm.,customer-type variant
+NHP-0109,Order ID,NHP-0109, NHP-0109 ,whitespace in ID
+NHP-0016,Order ID,NHP-0016, NHP-0016 ,whitespace in ID
+NHP-0145,Order ID,NHP-0145, NHP-0145 ,whitespace in ID
+NHP-0032,Order ID,NHP-0032, NHP-0032 ,whitespace in ID
+ NHP-0032 ,Order Date,24-02-2026,2026/02/24,date format variant
+NHP-0093,Order Date,06-05-2026,2026/05/06,date format variant
+NHP-0086,Order Date,27-04-2026,2026/04/27,date format variant
+NHP-0008,Order Date,23-01-2026,2026/01/23,date format variant
+NHP-0084,Order Date,27-04-2026,2026/04/27,date format variant
+NHP-0056,Order Date,27-03-2026,2026/03/27,date format variant
+NHP-0007,Delivery Date,20-02-2026,31-02-2026,invalid date
+NHP-0033,Installation Date,23-03-2026,15-03-2026,install before delivery
+NHP-0006,Installation Date,25-02-2026,17-02-2026,install before delivery
+NHP-0082,Dispatch Date,08-05-2026,01-01-2026,dispatch before order
+NHP-0128,Installation Date,16-06-2026,,completed but no install date
+NHP-0035,Order Value (INR),510000,,missing value
+NHP-0075,Order Value (INR),230000,,missing value
+NHP-0108,Order Value (INR),617000,,missing value
+NHP-0037,Order Value (INR),1055000,"Rs. 1,055,000",value as text
+NHP-0139,Order Value (INR),216000,"Rs. 216,000",value as text
+NHP-0147,(whole row),,,duplicate row
+NHP-0079,(whole row),,,duplicate row
+NHP-0031,(whole row),,,duplicate row
