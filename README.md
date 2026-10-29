@@ -228,6 +228,6 @@ Raw export → cleaning (10 rules, 48-entry log) → derived columns → KPIs �
 > **Order Fulfilment & Installation Performance Analysis Dashboard** (portfolio case study, simulated data). Cleaned and validated a 163-row order export under 10 documented rules. Defined 17 core operations KPIs, including on-time delivery (72.4%), installation completion (93.6%) and overdue orders (9). Built a filterable Excel dashboard and a Streamlit dashboard, reconciled against an independent recalculation. Identified installation as the weakest stage and proposed 9 prioritised actions.
 
 ## 19. Author
-**[Your Name]** · B.E. Information Science and Engineering · Aspiring Operations Analyst · [LinkedIn URL] · [Email]
+Neha N Patil · B.E. Information Science and Engineering · Aspiring Operations Analyst · https://www.linkedin.com/in/neha-n-patil-operations-analyst · emailtonneha@gmail.com
 
-*This is an independent portfolio project, not work performed as an employee. The company is named as the subject of a case study only. No company data, endorsement or trademark rights are implied.*
+*This is an independent project, not work performed as an employee. The company is named as the subject of a case study only. No company data, endorsement or trademark rights are implied.*
